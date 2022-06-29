@@ -1,3 +1,0 @@
-Sitemap: https://kuangyx.cn/sitemap.xml
-
-User-agent: *
